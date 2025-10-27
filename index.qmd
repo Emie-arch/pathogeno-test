@@ -16,6 +16,6 @@ execute:
 
 Hi, my name is Emilie, and I am taking a coding class, Bio 678, at UMass Amherst.
 
-![](https://ood.unity.rc.umass.edu/rnode/ceewater-cpu006.unity.rc.umass.edu/28634/files/Bird.jpg){width="511"}
+![](Bird.jpg){width="619"}
 
 [Lab 7.html](https://ood.unity.rc.umass.edu/rnode/ceewater-cpu006.unity.rc.umass.edu/28634/files/Lab%207.html)
