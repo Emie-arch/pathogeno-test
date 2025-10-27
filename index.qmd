@@ -1,0 +1,15 @@
+---
+title: "Lab 3S "
+author: "Emilie"
+format:
+  html:
+    toc: true
+    code-fold: true
+    theme: cosmo
+    embed-resources: true
+execute:
+  echo: true
+  freeze: auto
+---
+
+## About Me
